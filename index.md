@@ -350,6 +350,9 @@ In their randomized controlled study, conducted in an online simulation environm
 </div>
 <div class="sectionText">
 
+Abelson, R. P. (1995). Statistics as principled argument. Hillsdale, NJ: Lawrence Erlbaum Associates.
+<p>
+
 Deterding, S., Dixon, D., Khaled, R., & Nacke, L. (2011). From game design elements to gamefulness: defining “gamification”. In A. Lugmayr (Ed.), Proceedings of the 15th International Academic Mindtrek Conference: Envisioning Future Media Environments (pp. 9–15). New York: ACM. [https://doi.org/10.1145/2181037.2181040](https://doi.org/10.1145/2181037.2181040)
 <p>
 
