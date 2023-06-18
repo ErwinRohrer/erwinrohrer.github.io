@@ -101,7 +101,7 @@ img {
 
 [comment]: # (Title)
 <div style="text-align: center;">
-  <h1>Does gamification affect learning outcomes?</h1>
+  <h1>Impact of Gamification on Learning Outcomes</h1>
 </div>
 
 <div class="Text" style="font-size: 14px; text-align: right;">
@@ -385,7 +385,7 @@ Sailer, M., & Homner, L. (2020). The Gamification of Learning: a Meta-analysis. 
 </div>
 <div class="sectionText">
 
-This short review at hand incorporates the utilization of a Large Language Model (ChatGPT), to aid in  ideation, sentence formulation and code generation.
+This short review at hand has incorporated the utilization of a Large Language Model (ChatGPT), to partially aid in ideation, sentence formulation and code generation.
 </div>
 </div>
 </body> 
