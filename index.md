@@ -104,6 +104,10 @@ img {
   <h1>Does gamification affect learning outcomes?</h1>
 </div>
 
+<div class="Text" style="font-size: 14px; text-align: right;">
+20.Juni 2023
+</div>
+
 [comment]: # (Image below title if needed.)
 <div style="display: flex; justify-content: center;">
   <div class="titleImage">
