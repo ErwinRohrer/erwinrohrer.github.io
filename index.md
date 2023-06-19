@@ -105,7 +105,7 @@ img {
 </div>
 
 <div class="Text" style="font-size: 14px; text-align: right;">
-20.Juni 2023
+Erwin Rohrer, 20.Juni 2023
 </div>
 
 [comment]: # (Image below title if needed.)
@@ -150,7 +150,7 @@ Does the implementation of gamification into the educational practice has a meas
       <b>Additional results:</b>
       <ul>
         <li>Inclusion of game fiction and social interaction increase the effect of gamification on behavioral learning outcomes.</li>
-        <li>Short term gamified learning interventions have less effect on motivational learning outcomes than long term interventions</li>
+        <li>Short term gamified learning interventions have less effect on motivational learning outcomes than long term interventions.</li>
         <li>The effects of gamification are higher in a school setting than in a higher education or work setting.</li>
         <li>No publication bias was found.</li>
       </ul>
