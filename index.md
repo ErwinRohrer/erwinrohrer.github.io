@@ -149,7 +149,9 @@ Does the implementation of gamification into the educational practice has a meas
     <div class="sectionText">
       <b>Additional results:</b>
       <ul>
-        <li>Inclusion of game fiction and social interaction significantly moderate the effect of gamification on behavioral learning outcomes.</li>
+        <li>Inclusion of game fiction and social interaction increase the effect of gamification on behavioral learning outcomes.</li>
+        <li>Short term gamified learning interventions have less effect on motivational learning outcomes than long term interventions</li>
+        <li>The effects of gamification are higher in a school setting than in a higher education or work setting.</li>
         <li>No publication bias was found.</li>
       </ul>
     </div>
